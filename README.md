@@ -9,7 +9,8 @@
 
 O projeto é composto das seguintes caracteristicas:
 
-- **Instalação do WebPack:** Instalação por meio do Node.js através do comando **npm install **;
+- **Instalação do WebPack:** Instalação por meio do Node.js através do comando **npm install --save-dev webpack-cli**;
+- **Criação de Modulos:** Criação do modulo por meio do comando **npx webpack --config webpack.config.js**;
 ---
 
 ## 💼 Tecnologias utilizadas

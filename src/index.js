@@ -1,6 +1,11 @@
 import './style.scss'
 import img from './matrix.png'
 
+function rootStyle(){
+    const elemRoot = document.getElementById('root')
+    elemRoot.classList.add('container')
+}
+
 function titleComponent(){
     const elemH1 = document.createElement('h1')
     elemH1.innerHTML = 'Hello World'
@@ -14,5 +19,6 @@ function imageComponent() {
     return elemImg
 }
 
-document.body.appendChild(titleComponent())
-document.body.appendChild(imageComponent())
+rootStyle()
+document.getElementById('root').appendChild(titleComponent())
+document.getElementById('root').appendChild(imageComponent())

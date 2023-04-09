@@ -1,0 +1,15 @@
+id,valor_venda,valor_manutencao,portas,pessoas,porta_malas
+1,vhigh,med,2,2,small
+2,med,vhigh,2,2,small
+3,low,vhigh,2,2,small
+4,low,high,2,2,small
+5,low,high,2,2,small
+6,low,high,4,4,big
+7,low,high,4,4,big
+8,low,med,2,2,small
+9,low,med,2,2,small
+10,low,med,2,2,small
+11,low,med,4,4,big
+12,low,low,2,2,small
+13,low,low,4,4,small
+14,low,low,4,4,med

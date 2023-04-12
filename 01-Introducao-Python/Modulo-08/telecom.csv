@@ -1,0 +1,10 @@
+customerID,PaymentMethod,MonthlyCharges,TotalCharges,Churn
+7010-BRBUU,Credit card (automatic),24.1,1734.65,No
+9688-YGXVR,Credit card (automatic),88.15,3973.2,No
+9286-DOJGF,Bank transfer (automatic),74.95,2869.85,Yes
+6994-KERXL,Electronic check,55.9,238.5,No
+2181-UAESM,Electronic check,53.45,119.5,No
+4312-GVYNH,Bank transfer (automatic),49.85,3370.2,No
+2495-KZNFB,Electronic check,90.65,2989.6,No
+4367-NHWMM,Mailed check,24.9,24.9,No
+8898-KASCD,Mailed check,35.55,1309.15,No

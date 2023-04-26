@@ -43,3 +43,46 @@ Após a configuração abra a sessão criada ``Virtual-box`` e faça o login com
 - mkdir -> criar pastas
 - touch -> criar arquivos
 - ps aux -> processos rodando
+
+<br>
+
+## O comando Find
+
+```
+find [path...] [expression]
+
+find /home -name hello-world.py
+```
+
+### O Comando Find -> Arquivos
+- **name** pattern busca arquivos com o nome especificado:
+```
+find /home -name hello-world.py
+```
+
+- **iname** pattern igual ao -name, mas ignora letras maiusculas e 
+minusculas
+```
+find /home -iname hello-world.py
+```
+
+- **ls** detalha informações de cada arquivo encontrado
+```
+find /home -name python -ls
+```
+
+<br>
+
+### O Comando Find -> Diretórios
+Para encontrar diretórios precisamos adicionar o **parâmetro -d**
+```
+find / -type d -name “apt” -ls
+```
+
+ou
+
+```
+find / -type d -iname “apt” -ls
+```
+
+Para ignorar diretorios com maiusculas e minusculas

@@ -1,4 +1,3 @@
-# 📝 Módulo 02 - Definindo a estrutura de um banco de dados(DDL)
 ## ✅ Criando Tabelas e Colunas utilizando a linha de comando
 
 ### 1.1 Criando Tabelas

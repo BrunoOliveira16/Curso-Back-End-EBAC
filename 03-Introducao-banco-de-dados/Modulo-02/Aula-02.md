@@ -1,4 +1,3 @@
-# 📝 Módulo 02 - Definindo a estrutura de um banco de dados(DDL)
 ## ✅ Criando esquemas e base de dados utilizando a linha de comando
 Na Base de Dados definimos toda a nossa estrutura de dados do mais alto nível
 até o mais baixo:
@@ -39,7 +38,7 @@ Para a criação de database e schema no software PGadmin é relativamente mais 
 
 <br>
 
-## Comandos no SQL Shell(psql)
+### Comandos no SQL Shell(psql)
 Para acessar o postgres via o terminal sql shell, é necessário inserir suas senha do postgress.
 <img src="./assets/img-04.jpg">
 

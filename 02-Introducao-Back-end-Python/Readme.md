@@ -4,5 +4,6 @@ Este repositório trata-se dos conteúdos do curso de desenvolvimento full-stack
 Módulo Introdução ao Back-end Python (Conteúdos abordados):
 - Módulo 01: Introdução ao Linux
 - Módulo 02: Servidores de Aplicação
+- Módulo 03: Melhorando a Performance de Leitura com Índices 
 
 em desenvolvimento...

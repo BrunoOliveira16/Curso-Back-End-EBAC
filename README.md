@@ -46,10 +46,9 @@ O Curso consiste em 3 módulos principais:
 ### - **Continuação Back-end Python**    
     - Modulo 03: Melhorando a perfomance de leitura com índices
     - Modulo 04: Python Avançado
+    - em desenvolvimento...
 
 <br>
-
-em desenvolvimento...
 
 > No módulo introdução ao back-end em python, iniciamos os dois primeiros módulos e pausamos para realizar as aulas do módulo principal Introdução a banco de dados para aplicações comerciais, após a finalização é retornado em Continuação Back-end Python.
 

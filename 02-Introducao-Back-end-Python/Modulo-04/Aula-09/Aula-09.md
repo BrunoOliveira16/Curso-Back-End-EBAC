@@ -23,6 +23,8 @@ LeetCode é uma plataforma online de aprendizado de programação líder mundial
 ### Fluent Python
 “Fluent Python” é um livro escrito por Luciano Ramalho que tem como objetivo ensinar aos leitores como escrever código Python eficaz, conciso e idiomático, aproveitando ao máximo os recursos da linguagem. O livro abrange os principais recursos e bibliotecas da linguagem Python e mostra como tornar o código mais curto, rápido e legível ao mesmo tempo.
 
+- https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/
+
 <br>
 
 ### Real Python

@@ -7,5 +7,6 @@ Módulo Introdução ao Back-end Python (Conteúdos abordados):
 - Módulo 03: Melhorando a Performance de Leitura com Índices 
 - Módulo 04: Python Avançado
 - Módulo 05: Git e GitHub
+- Módulo 06: Configurando o Django
 
 em desenvolvimento...

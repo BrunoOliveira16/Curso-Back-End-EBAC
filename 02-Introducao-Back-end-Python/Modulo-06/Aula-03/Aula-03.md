@@ -49,3 +49,6 @@ Running migrations:
 > Por padrão, o Django utiliza um banco de dados leve e compacto chamado SQLite. É o banco de dados padrão que o Django usa se não for especificado e configurado.
 
 <br>
+
+### runserver
+O comando python manage.py runserver é usado para executar o servidor do Django. Por padrão, ele inicia o servidor no endereço ``http://localhost:8000``, que pode ser usado para executar o projeto. Você também pode especificar um endereço IP e uma porta para o servidor se vincular, por exemplo: ``python manage.py runserver 192.168.23.12:8000``.

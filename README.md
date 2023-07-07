@@ -9,6 +9,8 @@ Este repositório trata-se dos conteúdos do curso de desenvolvimento full-stack
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-CA2136?style=for-the-badge&logo=apache&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 <br>
 
@@ -21,7 +23,7 @@ O Curso consiste em 3 módulos principais:
 <br>
 
 ## 📝 Seções
-### - **Introdução ao Python**
+### 01: Introdução ao Python
     - Modulo 01: Váriaveis & Tipos de Dados
     - Modulo 02: Estrutura de dados
     - Modulo 03: Fluxo Condicional & Repetição
@@ -32,20 +34,23 @@ O Curso consiste em 3 módulos principais:
     - Modulo 08: Python: Tratamento de Erros
     - Modulo 09: Python: Scripting
 
-### - **Introdução ao Back-end Python**
+### 02: Introdução ao Back-end Python
     - Modulo 01: Introdução ao Linux
     - Modulo 02: Servidores de Aplicação
 
-### - **Introdução a banco de dados para aplicações comerciais**
+### 03: Introdução a banco de dados para aplicações comerciais
     - Modulo 01: Configurando seu ambiente SQL
     - Modulo 02: Definindo a estrutura de um banco de dados (DDL)
     - Modulo 03: Manipulação de Dados (DML)
     - Modulo 04: Relacionamento entre tabelas
     - Modulo 05: Agregação de Dados
 
-### - **Continuação Back-end Python**    
+### 04: Continuação Back-end Python    
     - Modulo 03: Melhorando a perfomance de leitura com índices
     - Modulo 04: Python Avançado
+    - Modulo 05: Git e GitHub
+    - Modulo 06: Configurando o Django
+    - Modulo 07: Modelos em Django
     - em desenvolvimento...
 
 <br>

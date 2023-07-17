@@ -8,5 +8,6 @@ Módulo Introdução ao Back-end Python (Conteúdos abordados):
 - Módulo 04: Python Avançado
 - Módulo 05: Git e GitHub
 - Módulo 06: Configurando o Django
+- Módulo 07: Modelos em Django
 
 em desenvolvimento...
